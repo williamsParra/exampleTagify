@@ -1,0 +1,9 @@
+.customLook {
+    --tag-bg: #02cfc8;
+    --tag-hover: #ce0078;
+    --tag-text-color: white;    
+}
+
+.customLook .tagify__tag > div {
+    border-radius: 10px;
+}
